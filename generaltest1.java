@@ -1,3 +1,12 @@
+/*
+The Fibonacci sequence is defined as a sequence of integers starting with 1 and 1, where each
+subsequent value is the sum of the preceding two. I.e.
+f(0) = 1
+f(1) = 1
+f(n) = f(n-1) + f(n-2) where n >= 2
+Write a program in a language of your choice to calculate the sum of the first 100 even-valued
+Fibonacci numbers
+*/
 
 public class generaltest1 {
 	public String Fibonaccisum() {
