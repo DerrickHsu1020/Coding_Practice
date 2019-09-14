@@ -1,3 +1,10 @@
+/*
+
+Write a function in a language of your choice which, when passed a positive integer returns
+true if the decimal representation of that integer contains no odd digits and otherwise returns
+false.
+
+*/
 
 public class generaltest3 {
 	public boolean solution3(int x) {
