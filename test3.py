@@ -3,6 +3,8 @@ Created on 2019/8/11
 
 @author: FD
 '''
+#Alien Dictionary
+
 import collections
 class Solution3(object):
     def order(self, words) -> str:
