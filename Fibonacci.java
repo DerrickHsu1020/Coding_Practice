@@ -8,7 +8,7 @@ Write a program in a language of your choice to calculate the sum of the first 1
 Fibonacci numbers
 */
 
-public class generaltest1 {
+public class Fibonacci {
 	public String Fibonaccisum() {
 		int count=0;
 		String sum="0";
