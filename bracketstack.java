@@ -6,7 +6,7 @@ return false. Non-bracket characters in the string should be ignored.
 */
 
 import java.util.*;
-public class test2 {
+public class bracketstack {
 	public boolean solution2(String s) {
 		if (s.length()==0)
 			return true;
@@ -36,5 +36,4 @@ public class test2 {
         else{
             return false;
         }
-	}
-}
+}	
